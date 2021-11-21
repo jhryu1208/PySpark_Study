@@ -1,0 +1,1 @@
+docker run -p 8888:8888 -e JUPYTER_ENABLE_LAB=yes -v "경로":/home/jovyan/work --name jupyter_lab --restart always jupyter/all-spark-notebook
