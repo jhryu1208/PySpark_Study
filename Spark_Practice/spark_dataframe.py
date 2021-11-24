@@ -20,17 +20,8 @@ if __name__ == "__main__":
     logger = Log4J(spark) # SparkSession 객체를 logger에 넘겨줌
 
     logger.info("Starting HelloSpark")
-
     survey_df = load_survey_df(spark, path)
-
-    # Transform
-    filtered_survey_df = survey_df.where("Age < 40")\
-                                  .select('Age', 'Gender', 'Country', 'state')
-    grouped_df = filtered_survey_df.groupby('Country')
-    count_df = grouped_df.count()
-
-    count_df.show() # df 출력
-
+    survey_df.show() # df 출력
     logger.info("Finished HelloSpark")
 
     spark.stop()

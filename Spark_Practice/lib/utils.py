@@ -31,3 +31,11 @@ def load_survey_df(spark, data_file):
         .csv(data_file)
 
     return df
+
+def count_by_country(df):
+
+    result_df = df.where("Age < 40").\
+                    select('Age', 'Gender', 'Country', 'state').\
+                    groupby('Country').count()
+
+    return result_df
