@@ -7,7 +7,7 @@ from pyspark import SparkConf
 
 # this func will load the configurations from spark.conf file
 # and return SparkConf object
-def get_spark_app_config():
+def get_spark_app_config(config_name='None'):
 
     file_name = 'test_spark.conf'
     path = os.getcwd() + '\\Spark_Practice\\conf\\'+file_name # 파일의 절대경로 path
@@ -15,7 +15,7 @@ def get_spark_app_config():
     config = configparser.ConfigParser() # ConfigParser객체 생성
     config.read(path) # path로 부터 파일 읽어오기
 
-    for (key, val) in config.items("SPARK_APP_LOCAL_CONFIGS"):
+    for (key, val) in config.items(config_name if config_name != 'None' else "SPARK_APP_LOCAL_CONFIGS"):
         spark_conf.set(key, val) # spark_conf set
 
     return spark_conf
