@@ -43,7 +43,7 @@ filteredRDD = selectRDD.filter(lambda rdd:rdd.Age < 40)
 filteredRDD.toDF().show()
 
 # key, value 지정
-kvRDD = filteredRDD.map(lambda r: (r.Country, 1))
+kvRDD = filteredRDD.map(lambda rdd: (rdd.Country, 1))
 kvRDD.toDF().show()
 
 # key, value 카운팅 by reduceByKey
