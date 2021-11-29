@@ -32,7 +32,7 @@ partitionedRDD = linesRDD.repartition(2)
 # ""를 제거해주지 않을 경우 다음과 같은 에러 발생
 # TypeError: Can not infer schema for type: <class 'str'>
 colsRDD = partitionedRDD.map(lambda line : line.replace('"', '').split(","))
-colsRDD.toDF().show()
+colsRDD.toDF().show() # rdd to datafrme
 
 # 스키마 정보 지정 및 select
 selectRDD = colsRDD.map(lambda cols: SurveyRecord(int(cols[1]), cols[2], cols[3], cols[4]))
