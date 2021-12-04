@@ -1,0 +1,694 @@
+2000-01-01,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1843,2023,40,2032,2103,0,545
+2000-01-01,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1059,1234,10,1248,1244,0,545
+2000-01-01,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2035,2204,10,2212,2214,0,545
+2000-01-01,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1443,1622,12,1641,1634,0,545
+2000-01-01,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1635,1815,8,1824,1823,0,545
+2000-01-01,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,844,1024,9,1030,1033,0,545
+2000-01-01,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,701,835,10,848,845,0,545
+2000-01-01,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,529,700,11,711,711,0,545
+2000-01-01,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1302,1448,6,1447,1454,0,545
+2000-01-01,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1549,1815,6,1810,1821,0,892
+2000-01-01,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1107,1328,9,1338,1337,0,892
+2000-01-01,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,635,718,5,652,723,0,174
+2000-01-01,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1802,"","",2100,"",0,1133
+2000-01-01,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1058,1347,3,1355,1350,0,1133
+2000-01-01,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1205,1502,8,1503,1510,0,1197
+2000-01-01,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,717,955,5,1015,1000,0,1197
+2000-01-01,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1228,1416,4,1435,1420,0,1103
+2000-01-01,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1756,1937,8,1953,1945,0,1103
+2000-01-01,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,723,958,9,1010,1007,0,1035
+2000-01-01,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1953,2222,9,2234,2231,0,1035
+2000-01-01,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1216,1452,14,1454,1506,0,1035
+2000-01-02,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,726,954,10,1010,1004,0,1035
+2000-01-02,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1956,2238,11,2234,2249,0,1035
+2000-01-02,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1213,1453,11,1454,1504,0,1035
+2000-01-02,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,2155,35,4,2100,39,0,1133
+2000-01-02,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1412,1719,5,1355,1724,0,1133
+2000-01-02,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1204,1502,9,1503,1511,0,1197
+2000-01-02,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,717,1006,7,1015,1013,0,1197
+2000-01-02,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1230,1423,8,1435,1431,0,1103
+2000-01-02,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,740,918,11,915,929,0,1103
+2000-01-02,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1746,1933,7,1953,1940,0,1103
+2000-01-02,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1840,2016,10,2032,2026,0,545
+2000-01-02,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1108,1256,7,1248,1303,0,545
+2000-01-02,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2046,2221,10,2212,2231,0,545
+2000-01-02,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1445,1652,8,1641,1700,0,545
+2000-01-02,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1641,1840,7,1824,1847,0,545
+2000-01-02,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1016,7,1030,1023,0,545
+2000-01-02,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,704,838,7,848,845,0,545
+2000-01-02,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,531,708,7,711,715,0,545
+2000-01-02,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1309,1506,6,1447,1512,0,545
+2000-01-02,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1540,1816,6,1810,1822,0,892
+2000-01-02,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1114,1352,8,1338,1400,0,892
+2000-01-02,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,604,657,7,652,704,0,174
+2000-01-03,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1843,2015,22,2032,2037,0,545
+2000-01-03,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1056,1233,7,1248,1240,0,545
+2000-01-03,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2031,2210,12,2212,2222,0,545
+2000-01-03,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1440,1630,8,1641,1638,0,545
+2000-01-03,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1630,1824,8,1824,1832,0,545
+2000-01-03,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,852,1042,11,1030,1053,0,545
+2000-01-03,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,704,840,8,848,848,0,545
+2000-01-03,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,533,708,6,711,714,0,545
+2000-01-03,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1303,1432,8,1447,1440,0,545
+2000-01-03,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1540,1808,6,1810,1814,0,892
+2000-01-03,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1107,1325,7,1338,1332,0,892
+2000-01-03,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,558,653,5,652,658,0,174
+2000-01-03,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1806,2048,7,2100,2055,0,1133
+2000-01-03,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1058,1332,6,1355,1338,0,1133
+2000-01-03,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1200,1449,6,1503,1455,0,1197
+2000-01-03,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,721,1004,8,1015,1012,0,1197
+2000-01-03,2130,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1630,1630,1903,13,1928,1916,0,1197
+2000-01-03,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1230,1413,11,1435,1424,0,1103
+2000-01-03,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,720,901,6,915,907,0,1103
+2000-01-03,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1750,1943,11,1953,1954,0,1103
+2000-01-03,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,719,944,13,1010,957,0,1035
+2000-01-03,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1952,2214,11,2234,2225,0,1035
+2000-01-03,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1209,1439,11,1454,1450,0,1035
+2000-01-04,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,725,1006,11,1010,1017,0,1035
+2000-01-04,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2135,2354,11,2234,5,0,1035
+2000-01-04,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1230,1500,13,1454,1513,0,1035
+2000-01-04,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1828,2059,3,2100,2102,0,1133
+2000-01-04,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1112,1356,4,1355,1400,0,1133
+2000-01-04,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1210,1508,8,1503,1516,0,1197
+2000-01-04,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,720,1010,6,1015,1016,0,1197
+2000-01-04,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1247,1433,14,1435,1447,0,1103
+2000-01-04,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,724,918,16,915,934,0,1103
+2000-01-04,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1751,1938,12,1953,1950,0,1103
+2000-01-04,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1858,2041,8,2032,2049,0,545
+2000-01-04,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1058,1231,14,1248,1245,0,545
+2000-01-04,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2036,2203,10,2212,2213,0,545
+2000-01-04,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1441,1624,7,1641,1631,0,545
+2000-01-04,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1633,1809,11,1824,1820,0,545
+2000-01-04,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,843,1020,6,1030,1026,0,545
+2000-01-04,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,708,853,11,848,904,0,545
+2000-01-04,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,534,703,11,711,714,0,545
+2000-01-04,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1323,1452,5,1447,1457,0,545
+2000-01-04,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1558,1800,6,1810,1806,0,892
+2000-01-04,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1105,1307,5,1338,1312,0,892
+2000-01-04,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,559,641,6,652,647,0,174
+2000-01-05,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1841,2025,17,2032,2042,0,545
+2000-01-05,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1058,1237,12,1248,1249,0,545
+2000-01-05,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2024,2156,9,2212,2205,0,545
+2000-01-05,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1445,1644,8,1641,1652,0,545
+2000-01-05,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1632,1817,13,1824,1830,0,545
+2000-01-05,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,851,1015,10,1030,1025,0,545
+2000-01-05,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,709,854,10,848,904,0,545
+2000-01-05,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,530,700,4,711,704,0,545
+2000-01-05,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1301,1445,6,1447,1451,0,545
+2000-01-05,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1103,1345,5,1355,1350,0,1133
+2000-01-05,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1541,1810,5,1810,1815,0,892
+2000-01-05,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1130,1352,6,1338,1358,0,892
+2000-01-05,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,601,645,4,652,649,0,174
+2000-01-05,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1806,2046,6,2100,2052,0,1133
+2000-01-05,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1213,1504,5,1503,1509,0,1197
+2000-01-05,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,724,1002,5,1015,1007,0,1197
+2000-01-05,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1241,1429,14,1435,1443,0,1103
+2000-01-05,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,718,906,9,915,915,0,1103
+2000-01-05,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1746,1946,8,1953,1954,0,1103
+2000-01-05,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,727,951,12,1010,1003,0,1035
+2000-01-05,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1950,2216,7,2234,2223,0,1035
+2000-01-05,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1215,1452,11,1454,1503,0,1035
+2000-01-06,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,727,949,7,1010,956,0,1035
+2000-01-06,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1949,2224,9,2234,2233,0,1035
+2000-01-06,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1209,1430,11,1454,1441,0,1035
+2000-01-06,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1804,2036,6,2100,2042,0,1133
+2000-01-06,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1210,1452,6,1503,1458,0,1197
+2000-01-06,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,720,956,7,1015,1003,0,1197
+2000-01-06,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1228,1417,7,1435,1424,0,1103
+2000-01-06,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,717,908,6,915,914,0,1103
+2000-01-06,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1739,1927,20,1953,1947,0,1103
+2000-01-06,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1852,2053,7,2032,2100,0,545
+2000-01-06,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1055,1227,8,1248,1235,0,545
+2000-01-06,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2034,2211,10,2212,2221,0,545
+2000-01-06,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1625,1803,12,1641,1815,0,545
+2000-01-06,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1636,1811,7,1824,1818,0,545
+2000-01-06,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1018,8,1030,1026,0,545
+2000-01-06,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,700,834,8,848,842,0,545
+2000-01-06,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,534,710,4,711,714,0,545
+2000-01-06,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1303,1435,10,1447,1445,0,545
+2000-01-06,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1105,1338,4,1355,1342,0,1133
+2000-01-06,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1614,1837,6,1810,1843,0,892
+2000-01-06,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1123,1343,6,1338,1349,0,892
+2000-01-06,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,559,643,4,652,647,0,174
+2000-01-07,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1842,2021,10,2032,2031,0,545
+2000-01-07,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1057,1236,7,1248,1243,0,545
+2000-01-07,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2027,2207,8,2212,2215,0,545
+2000-01-07,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1439,1618,9,1641,1627,0,545
+2000-01-07,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1634,1824,9,1824,1833,0,545
+2000-01-07,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,844,1021,16,1030,1037,0,545
+2000-01-07,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,702,836,8,848,844,0,545
+2000-01-07,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,526,700,6,711,706,0,545
+2000-01-07,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1258,1436,6,1447,1442,0,545
+2000-01-07,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1059,1343,5,1355,1348,0,1133
+2000-01-07,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1543,1808,6,1810,1814,0,892
+2000-01-07,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1107,1328,4,1338,1332,0,892
+2000-01-07,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,558,642,6,652,648,0,174
+2000-01-07,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1807,2050,6,2100,2056,0,1133
+2000-01-07,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1203,1447,9,1503,1456,0,1197
+2000-01-07,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,755,1036,5,1015,1041,0,1197
+2000-01-07,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1229,1412,8,1435,1420,0,1103
+2000-01-07,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,712,857,8,915,905,0,1103
+2000-01-07,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1741,1948,13,1953,2001,0,1103
+2000-01-07,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,722,957,7,1010,1004,0,1035
+2000-01-07,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1950,2217,8,2234,2225,0,1035
+2000-01-07,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1210,1442,17,1454,1459,0,1035
+2000-01-08,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,726,951,7,1010,958,0,1035
+2000-01-08,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1948,2212,7,2234,2219,0,1035
+2000-01-08,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1214,1445,15,1454,1500,0,1035
+2000-01-08,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1804,2040,4,2100,2044,0,1133
+2000-01-08,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1209,1452,13,1503,1505,0,1197
+2000-01-08,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,721,1000,7,1015,1007,0,1197
+2000-01-08,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1425,1710,9,1723,1719,0,1197
+2000-01-08,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1228,1408,4,1435,1412,0,1103
+2000-01-08,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,906,9,915,915,0,1103
+2000-01-08,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1748,1944,18,1953,2002,0,1103
+2000-01-08,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1839,2019,11,2032,2030,0,545
+2000-01-08,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1059,1233,8,1248,1241,0,545
+2000-01-08,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2027,2157,10,2212,2207,0,545
+2000-01-08,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1440,1636,10,1641,1646,0,545
+2000-01-08,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1640,1837,14,1824,1851,0,545
+2000-01-08,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,845,1012,22,1030,1034,0,545
+2000-01-08,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,658,836,10,848,846,0,545
+2000-01-08,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,526,700,7,711,707,0,545
+2000-01-08,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1300,1436,7,1447,1443,0,545
+2000-01-08,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1103,1350,4,1355,1354,0,1133
+2000-01-08,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1555,1824,8,1810,1832,0,892
+2000-01-08,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1100,1324,7,1338,1331,0,892
+2000-01-08,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,559,641,5,652,646,0,174
+2000-01-09,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,725,958,8,1010,1006,0,1035
+2000-01-09,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,34,241,8,2234,249,0,1035
+2000-01-09,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1207,1433,14,1454,1447,0,1035
+2000-01-09,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1928,2105,14,2032,2119,0,545
+2000-01-09,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1059,1248,9,1248,1257,0,545
+2000-01-09,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2028,2317,10,2212,2327,0,545
+2000-01-09,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1539,1738,8,1641,1746,0,545
+2000-01-09,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1728,1902,10,1824,1912,0,545
+2000-01-09,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,851,1028,10,1030,1038,0,545
+2000-01-09,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,718,912,9,848,921,0,545
+2000-01-09,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,532,705,7,711,712,0,545
+2000-01-09,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1313,1512,7,1447,1519,0,545
+2000-01-09,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1111,1345,3,1355,1348,0,1133
+2000-01-09,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1540,1812,10,1810,1822,0,892
+2000-01-09,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1111,1328,6,1338,1334,0,892
+2000-01-09,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,556,640,5,652,645,0,174
+2000-01-09,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1820,2053,6,2100,2059,0,1133
+2000-01-09,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1200,1444,6,1503,1450,0,1197
+2000-01-09,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,728,1010,9,1015,1019,0,1197
+2000-01-09,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1420,1718,6,1723,1724,0,1197
+2000-01-09,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1243,1434,8,1435,1442,0,1103
+2000-01-09,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,711,857,5,915,902,0,1103
+2000-01-09,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1744,1941,12,1953,1953,0,1103
+2000-01-10,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1840,2021,7,2032,2028,0,545
+2000-01-10,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1059,1230,7,1248,1237,0,545
+2000-01-10,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2025,2159,10,2212,2209,0,545
+2000-01-10,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1439,1640,6,1641,1646,0,545
+2000-01-10,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1633,1757,19,1824,1816,0,545
+2000-01-10,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,848,1019,8,1030,1027,0,545
+2000-01-10,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,"","","",848,"",1,545
+2000-01-10,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,531,657,8,711,705,0,545
+2000-01-10,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1304,1433,8,1447,1441,0,545
+2000-01-10,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1116,1349,5,1355,1354,0,1133
+2000-01-10,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1551,1810,5,1810,1815,0,892
+2000-01-10,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1107,1314,8,1338,1322,0,892
+2000-01-10,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,600,648,5,652,653,0,174
+2000-01-10,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1843,2119,3,2100,2122,0,1133
+2000-01-10,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1249,1522,7,1503,1529,0,1197
+2000-01-10,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,724,954,7,1015,1001,0,1197
+2000-01-10,2130,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1630,1901,2151,9,1928,2200,0,1197
+2000-01-10,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1226,1421,9,1435,1430,0,1103
+2000-01-10,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,723,915,9,915,924,0,1103
+2000-01-10,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1744,1941,6,1953,1947,0,1103
+2000-01-10,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,730,1007,1,1010,1008,0,1035
+2000-01-10,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2101,2323,11,2234,2334,0,1035
+2000-01-10,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1208,1452,13,1454,1505,0,1035
+2000-01-11,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,726,1004,11,1010,1015,0,1035
+2000-01-11,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2021,2326,7,2234,2333,0,1035
+2000-01-11,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1300,1540,11,1454,1551,0,1035
+2000-01-11,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1806,2049,7,2100,2056,0,1133
+2000-01-11,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1206,1454,7,1503,1501,0,1197
+2000-01-11,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,"","","",1015,"",1,1197
+2000-01-11,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1230,1418,4,1435,1422,0,1103
+2000-01-11,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,907,11,915,918,0,1103
+2000-01-11,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1740,1944,7,1953,1951,0,1103
+2000-01-11,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1839,2019,10,2032,2029,0,545
+2000-01-11,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1057,1233,9,1248,1242,0,545
+2000-01-11,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2028,2213,9,2212,2222,0,545
+2000-01-11,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1442,1641,7,1641,1648,0,545
+2000-01-11,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1631,1806,10,1824,1816,0,545
+2000-01-11,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,847,1012,7,1030,1019,0,545
+2000-01-11,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,720,908,12,848,920,0,545
+2000-01-11,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,540,717,6,711,723,0,545
+2000-01-11,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1257,1440,7,1447,1447,0,545
+2000-01-11,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1058,1334,5,1355,1339,0,1133
+2000-01-11,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1610,1829,6,1810,1835,0,892
+2000-01-11,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1139,1358,10,1338,1408,0,892
+2000-01-11,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,"","","",652,"",1,174
+2000-01-12,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1840,2017,14,2032,2031,0,545
+2000-01-12,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1051,1223,9,1248,1232,0,545
+2000-01-12,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2025,2155,12,2212,2207,0,545
+2000-01-12,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1442,1636,7,1641,1643,0,545
+2000-01-12,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1633,1818,6,1824,1824,0,545
+2000-01-12,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,842,1008,24,1030,1032,0,545
+2000-01-12,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,659,832,13,848,845,0,545
+2000-01-12,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,528,658,10,711,708,0,545
+2000-01-12,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1300,1452,5,1447,1457,0,545
+2000-01-12,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1054,1338,4,1355,1342,0,1133
+2000-01-12,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1547,1814,9,1810,1823,0,892
+2000-01-12,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1101,1321,6,1338,1327,0,892
+2000-01-12,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,603,643,10,652,653,0,174
+2000-01-12,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1801,2044,6,2100,2050,0,1133
+2000-01-12,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1207,1503,6,1503,1509,0,1197
+2000-01-12,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,722,1003,4,1015,1007,0,1197
+2000-01-12,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1228,1417,8,1435,1425,0,1103
+2000-01-12,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,710,857,7,915,904,0,1103
+2000-01-12,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1742,1936,10,1953,1946,0,1103
+2000-01-12,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,820,1053,8,1010,1101,0,1035
+2000-01-12,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2036,2256,8,2234,2304,0,1035
+2000-01-12,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1358,1632,12,1454,1644,0,1035
+2000-01-13,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,723,957,8,1010,1005,0,1035
+2000-01-13,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2039,2305,9,2234,2314,0,1035
+2000-01-13,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1241,1549,20,1454,1609,0,1035
+2000-01-13,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1902,2150,7,2100,2157,0,1133
+2000-01-13,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1216,1510,6,1503,1516,0,1197
+2000-01-13,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,718,1039,6,1015,1045,0,1197
+2000-01-13,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1233,1423,24,1435,1447,0,1103
+2000-01-13,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,714,901,4,915,905,0,1103
+2000-01-13,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1741,1934,17,1953,1951,0,1103
+2000-01-13,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1841,2021,9,2032,2030,0,545
+2000-01-13,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1057,1236,6,1248,1242,0,545
+2000-01-13,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2035,2211,9,2212,2220,0,545
+2000-01-13,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1443,1633,8,1641,1641,0,545
+2000-01-13,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1633,1807,9,1824,1816,0,545
+2000-01-13,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,845,1017,51,1030,1108,0,545
+2000-01-13,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,700,838,12,848,850,0,545
+2000-01-13,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,531,706,8,711,714,0,545
+2000-01-13,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1320,1454,7,1447,1501,0,545
+2000-01-13,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1102,1347,7,1355,1354,0,1133
+2000-01-13,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1549,1813,5,1810,1818,0,892
+2000-01-13,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1110,1330,6,1338,1336,0,892
+2000-01-13,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,602,646,4,652,650,0,174
+2000-01-14,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1840,2021,15,2032,2036,0,545
+2000-01-14,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1052,1239,8,1248,1247,0,545
+2000-01-14,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2024,2203,23,2212,2226,0,545
+2000-01-14,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1444,1641,9,1641,1650,0,545
+2000-01-14,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1636,1805,15,1824,1820,0,545
+2000-01-14,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,845,1015,18,1030,1033,0,545
+2000-01-14,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,702,841,12,848,853,0,545
+2000-01-14,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,529,701,5,711,706,0,545
+2000-01-14,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1308,1503,6,1447,1509,0,545
+2000-01-14,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1121,1407,5,1355,1412,0,1133
+2000-01-14,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1551,1830,5,1810,1835,0,892
+2000-01-14,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1110,1335,7,1338,1342,0,892
+2000-01-14,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,559,645,6,652,651,0,174
+2000-01-14,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1846,2150,9,2100,2159,0,1133
+2000-01-14,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1500,1829,15,1503,1844,0,1197
+2000-01-14,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,716,1018,5,1015,1023,0,1197
+2000-01-14,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1229,1429,6,1435,1435,0,1103
+2000-01-14,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,857,5,915,902,0,1103
+2000-01-14,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1906,2102,10,1953,2112,0,1103
+2000-01-14,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,723,1001,13,1010,1014,0,1035
+2000-01-14,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2137,22,12,2234,34,0,1035
+2000-01-14,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1357,1640,10,1454,1650,0,1035
+2000-01-15,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,721,1008,8,1010,1016,0,1035
+2000-01-15,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1948,2222,8,2234,2230,0,1035
+2000-01-15,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1213,1503,14,1454,1517,0,1035
+2000-01-15,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1807,2103,9,2100,2112,0,1133
+2000-01-15,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1205,1506,5,1503,1511,0,1197
+2000-01-15,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,719,1021,6,1015,1027,0,1197
+2000-01-15,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1425,1718,10,1723,1728,0,1197
+2000-01-15,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1227,1444,6,1435,1450,0,1103
+2000-01-15,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,902,8,915,910,0,1103
+2000-01-15,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1738,1934,7,1953,1941,0,1103
+2000-01-15,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1839,2018,11,2032,2029,0,545
+2000-01-15,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1055,1238,9,1248,1247,0,545
+2000-01-15,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2025,2156,8,2212,2204,0,545
+2000-01-15,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1440,1619,9,1641,1628,0,545
+2000-01-15,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1629,1805,12,1824,1817,0,545
+2000-01-15,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1024,12,1030,1036,0,545
+2000-01-15,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,701,839,13,848,852,0,545
+2000-01-15,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,527,706,5,711,711,0,545
+2000-01-15,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1316,1453,8,1447,1501,0,545
+2000-01-15,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1056,1404,8,1355,1412,0,1133
+2000-01-15,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1536,1814,6,1810,1820,0,892
+2000-01-15,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1107,1341,6,1338,1347,0,892
+2000-01-15,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,559,645,5,652,650,0,174
+2000-01-16,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1904,2123,7,2032,2130,0,545
+2000-01-16,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1056,1250,8,1248,1258,0,545
+2000-01-16,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2044,2238,6,2212,2244,0,545
+2000-01-16,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1440,1700,6,1641,1706,0,545
+2000-01-16,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1650,1855,21,1824,1916,0,545
+2000-01-16,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1019,16,1030,1035,0,545
+2000-01-16,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,700,845,8,848,853,0,545
+2000-01-16,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,533,708,5,711,713,0,545
+2000-01-16,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1258,1455,9,1447,1504,0,545
+2000-01-16,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1057,1344,4,1355,1348,0,1133
+2000-01-16,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1534,1800,5,1810,1805,0,892
+2000-01-16,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1103,1318,5,1338,1323,0,892
+2000-01-16,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,603,646,5,652,651,0,174
+2000-01-16,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1801,2050,3,2100,2053,0,1133
+2000-01-16,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1206,1512,8,1503,1520,0,1197
+2000-01-16,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,726,1032,7,1015,1039,0,1197
+2000-01-16,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1430,1735,4,1723,1739,0,1197
+2000-01-16,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1229,1420,7,1435,1427,0,1103
+2000-01-16,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,901,6,915,907,0,1103
+2000-01-16,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1736,1932,10,1953,1942,0,1103
+2000-01-16,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,725,1001,9,1010,1010,0,1035
+2000-01-16,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2030,2314,9,2234,2323,0,1035
+2000-01-16,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1210,1452,16,1454,1508,0,1035
+2000-01-17,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,725,1012,12,1010,1024,0,1035
+2000-01-17,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2015,2259,7,2234,2306,0,1035
+2000-01-17,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1217,1519,10,1454,1529,0,1035
+2000-01-17,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1829,2138,5,2100,2143,0,1133
+2000-01-17,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1300,1639,5,1503,1644,0,1197
+2000-01-17,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,726,1040,5,1015,1045,0,1197
+2000-01-17,2130,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1630,1908,2210,6,1928,2216,0,1197
+2000-01-17,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1234,1409,5,1435,1414,0,1103
+2000-01-17,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,855,5,915,900,0,1103
+2000-01-17,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1751,1937,14,1953,1951,0,1103
+2000-01-17,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1850,2032,10,2032,2042,0,545
+2000-01-17,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1057,1236,5,1248,1241,0,545
+2000-01-17,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2029,2201,10,2212,2211,0,545
+2000-01-17,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1441,1633,22,1641,1655,0,545
+2000-01-17,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1640,1826,9,1824,1835,0,545
+2000-01-17,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,910,1041,7,1030,1048,0,545
+2000-01-17,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,704,841,24,848,905,0,545
+2000-01-17,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,534,709,6,711,715,0,545
+2000-01-17,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1258,1440,8,1447,1448,0,545
+2000-01-17,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1101,1410,5,1355,1415,0,1133
+2000-01-17,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1545,1815,7,1810,1822,0,892
+2000-01-17,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1106,1331,6,1338,1337,0,892
+2000-01-17,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,604,646,5,652,651,0,174
+2000-01-18,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,726,1006,10,1010,1016,0,1035
+2000-01-18,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1949,2224,9,2234,2233,0,1035
+2000-01-18,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1207,1441,8,1454,1449,0,1035
+2000-01-18,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1839,2023,8,2032,2031,0,545
+2000-01-18,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1055,1243,12,1248,1255,0,545
+2000-01-18,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2020,2152,6,2212,2158,0,545
+2000-01-18,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1439,1635,8,1641,1643,0,545
+2000-01-18,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1657,1851,6,1824,1857,0,545
+2000-01-18,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,849,1029,8,1030,1037,0,545
+2000-01-18,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,659,836,16,848,852,0,545
+2000-01-18,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,530,709,9,711,718,0,545
+2000-01-18,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1304,1448,7,1447,1455,0,545
+2000-01-18,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1118,1403,6,1355,1409,0,1133
+2000-01-18,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1556,1825,5,1810,1830,0,892
+2000-01-18,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1110,1337,5,1338,1342,0,892
+2000-01-18,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,559,644,8,652,652,0,174
+2000-01-18,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1805,2056,6,2100,2102,0,1133
+2000-01-18,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1248,1537,7,1503,1544,0,1197
+2000-01-18,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,731,1025,6,1015,1031,0,1197
+2000-01-18,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1231,1413,10,1435,1423,0,1103
+2000-01-18,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,712,855,12,915,907,0,1103
+2000-01-18,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1740,1931,12,1953,1943,0,1103
+2000-01-19,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1836,2012,15,2032,2027,0,545
+2000-01-19,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1054,1230,10,1248,1240,0,545
+2000-01-19,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2026,2214,10,2212,2224,0,545
+2000-01-19,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1436,1628,7,1641,1635,0,545
+2000-01-19,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1637,1841,9,1824,1850,0,545
+2000-01-19,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,845,1013,15,1030,1028,0,545
+2000-01-19,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,700,838,11,848,849,0,545
+2000-01-19,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,530,704,6,711,710,0,545
+2000-01-19,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1301,1447,8,1447,1455,0,545
+2000-01-19,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1055,1351,8,1355,1359,0,1133
+2000-01-19,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1542,1818,9,1810,1827,0,892
+2000-01-19,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1102,1326,8,1338,1334,0,892
+2000-01-19,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,603,652,5,652,657,0,174
+2000-01-19,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1759,2054,6,2100,2100,0,1133
+2000-01-19,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1208,1503,9,1503,1512,0,1197
+2000-01-19,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,718,1013,5,1015,1018,0,1197
+2000-01-19,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1232,1428,10,1435,1438,0,1103
+2000-01-19,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,711,906,9,915,915,0,1103
+2000-01-19,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1742,1934,11,1953,1945,0,1103
+2000-01-19,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,729,1005,6,1010,1011,0,1035
+2000-01-19,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1949,2221,17,2234,2238,0,1035
+2000-01-19,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1210,1448,10,1454,1458,0,1035
+2000-01-20,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,724,1010,29,1010,1039,0,1035
+2000-01-20,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,"","","",2234,"",1,1035
+2000-01-20,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,"","","",1454,"",1,1035
+2000-01-20,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1842,2134,7,2100,2141,0,1133
+2000-01-20,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1314,1615,5,1503,1620,0,1197
+2000-01-20,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,719,1004,6,1015,1010,0,1197
+2000-01-20,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1229,1414,11,1435,1425,0,1103
+2000-01-20,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,713,903,5,915,908,0,1103
+2000-01-20,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1741,1945,11,1953,1956,0,1103
+2000-01-20,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1840,2023,8,2032,2031,0,545
+2000-01-20,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1058,1239,6,1248,1245,0,545
+2000-01-20,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2026,2200,24,2212,2224,0,545
+2000-01-20,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1440,1642,10,1641,1652,0,545
+2000-01-20,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1637,1811,7,1824,1818,0,545
+2000-01-20,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,844,1026,6,1030,1032,0,545
+2000-01-20,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,659,837,8,848,845,0,545
+2000-01-20,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,528,709,11,711,720,0,545
+2000-01-20,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1257,1438,7,1447,1445,0,545
+2000-01-20,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1058,1355,7,1355,1402,0,1133
+2000-01-20,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1625,1852,6,1810,1858,0,892
+2000-01-20,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1059,1341,8,1338,1349,0,892
+2000-01-20,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,600,648,4,652,652,0,174
+2000-01-21,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1845,2027,33,2032,2100,0,545
+2000-01-21,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1052,1230,9,1248,1239,0,545
+2000-01-21,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2040,2228,9,2212,2237,0,545
+2000-01-21,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1446,1622,12,1641,1634,0,545
+2000-01-21,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1704,1854,8,1824,1902,0,545
+2000-01-21,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1023,10,1030,1033,0,545
+2000-01-21,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,703,843,8,848,851,0,545
+2000-01-21,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,527,707,7,711,714,0,545
+2000-01-21,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1308,1450,6,1447,1456,0,545
+2000-01-21,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1127,1412,5,1355,1417,0,1133
+2000-01-21,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1537,1842,5,1810,1847,0,892
+2000-01-21,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1102,1329,7,1338,1336,0,892
+2000-01-21,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,600,646,6,652,652,0,174
+2000-01-21,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1825,2117,4,2100,2121,0,1133
+2000-01-21,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1213,1519,6,1503,1525,0,1197
+2000-01-21,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,921,1224,6,1015,1230,0,1197
+2000-01-21,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1225,1423,9,1435,1432,0,1103
+2000-01-21,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,908,8,915,916,0,1103
+2000-01-21,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1743,1944,7,1953,1951,0,1103
+2000-01-21,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,819,1106,27,1010,1133,0,1035
+2000-01-21,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2046,2317,63,2234,20,0,1035
+2000-01-21,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1401,1641,7,1454,1648,0,1035
+2000-01-22,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,721,954,10,1010,1004,0,1035
+2000-01-22,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1947,2211,9,2234,2220,0,1035
+2000-01-22,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1237,1503,17,1454,1520,0,1035
+2000-01-22,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1858,2149,7,2100,2156,0,1133
+2000-01-22,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1159,1451,5,1503,1456,0,1197
+2000-01-22,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,718,1001,4,1015,1005,0,1197
+2000-01-22,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1455,1753,10,1723,1803,0,1197
+2000-01-22,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1229,1420,10,1435,1430,0,1103
+2000-01-22,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,714,903,8,915,911,0,1103
+2000-01-22,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1741,1930,12,1953,1942,0,1103
+2000-01-22,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1841,2040,18,2032,2058,0,545
+2000-01-22,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1052,1244,8,1248,1252,0,545
+2000-01-22,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2244,15,10,2212,25,0,545
+2000-01-22,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1439,1638,8,1641,1646,0,545
+2000-01-22,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1632,1813,11,1824,1824,0,545
+2000-01-22,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1020,6,1030,1026,0,545
+2000-01-22,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,657,836,12,848,848,0,545
+2000-01-22,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,542,709,7,711,716,0,545
+2000-01-22,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1304,1455,7,1447,1502,0,545
+2000-01-22,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1122,1411,4,1355,1415,0,1133
+2000-01-22,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1546,1815,7,1810,1822,0,892
+2000-01-22,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1103,1342,7,1338,1349,0,892
+2000-01-22,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,556,643,5,652,648,0,174
+2000-01-23,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,730,949,11,1010,1000,0,1035
+2000-01-23,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2051,2308,11,2234,2319,0,1035
+2000-01-23,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1502,1729,11,1454,1740,0,1035
+2000-01-23,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1902,2050,9,2032,2059,0,545
+2000-01-23,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1222,1404,11,1248,1415,0,545
+2000-01-23,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2113,2238,17,2212,2255,0,545
+2000-01-23,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1720,1923,10,1641,1933,0,545
+2000-01-23,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1648,1823,11,1824,1834,0,545
+2000-01-23,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,1051,1234,29,1030,1303,0,545
+2000-01-23,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,705,839,9,848,848,0,545
+2000-01-23,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,538,711,9,711,720,0,545
+2000-01-23,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,"","","",1447,"",1,545
+2000-01-23,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1117,1348,6,1355,1354,0,1133
+2000-01-23,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1555,1806,6,1810,1812,0,892
+2000-01-23,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1108,1326,7,1338,1333,0,892
+2000-01-23,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,600,651,4,652,655,0,174
+2000-01-23,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1845,2111,7,2100,2118,0,1133
+2000-01-23,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1220,1449,10,1503,1459,0,1197
+2000-01-23,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,719,952,8,1015,1000,0,1197
+2000-01-23,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1425,1705,6,1723,1711,0,1197
+2000-01-23,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1230,1419,12,1435,1431,0,1103
+2000-01-23,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,905,9,915,914,0,1103
+2000-01-23,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1748,1945,11,1953,1956,0,1103
+2000-01-24,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1910,2042,10,2032,2052,0,545
+2000-01-24,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1053,1229,7,1248,1236,0,545
+2000-01-24,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2031,2157,8,2212,2205,0,545
+2000-01-24,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1529,1710,7,1641,1717,0,545
+2000-01-24,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1657,1827,10,1824,1837,0,545
+2000-01-24,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1009,7,1030,1016,0,545
+2000-01-24,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,704,848,8,848,856,0,545
+2000-01-24,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,533,704,6,711,710,0,545
+2000-01-24,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1319,1457,9,1447,1506,0,545
+2000-01-24,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1130,1358,9,1355,1407,0,1133
+2000-01-24,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1616,1826,8,1810,1834,0,892
+2000-01-24,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1114,1325,6,1338,1331,0,892
+2000-01-24,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,558,643,6,652,649,0,174
+2000-01-24,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1840,2124,5,2100,2129,0,1133
+2000-01-24,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1228,1456,13,1503,1509,0,1197
+2000-01-24,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,749,1027,6,1015,1033,0,1197
+2000-01-24,2130,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1630,1630,1914,1,1928,1915,0,1197
+2000-01-24,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1230,1427,14,1435,1441,0,1103
+2000-01-24,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,732,932,13,915,945,0,1103
+2000-01-24,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1742,1947,7,1953,1954,0,1103
+2000-01-24,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,738,946,9,1010,955,0,1035
+2000-01-24,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1953,2219,14,2234,2233,0,1035
+2000-01-24,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1211,1436,12,1454,1448,0,1035
+2000-01-25,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,"","","",1010,"",1,1035
+2000-01-25,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,"","","",2234,"",1,1035
+2000-01-25,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,"","","",1454,"",1,1035
+2000-01-25,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,"","","",2100,"",1,1133
+2000-01-25,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,"","","",1503,"",1,1197
+2000-01-25,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,924,"","",1015,"",0,1197
+2000-01-25,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1229,1442,8,1435,1450,0,1103
+2000-01-25,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,711,912,10,915,922,0,1103
+2000-01-25,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1742,1955,10,1953,2005,0,1103
+2000-01-25,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1837,2024,12,2032,2036,0,545
+2000-01-25,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1109,1241,7,1248,1248,0,545
+2000-01-25,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2020,2148,22,2212,2210,0,545
+2000-01-25,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1439,1621,9,1641,1630,0,545
+2000-01-25,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1638,1811,10,1824,1821,0,545
+2000-01-25,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,841,1013,8,1030,1021,0,545
+2000-01-25,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,704,839,36,848,915,0,545
+2000-01-25,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,529,700,9,711,709,0,545
+2000-01-25,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1259,1432,7,1447,1439,0,545
+2000-01-25,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,"","","",1355,"",1,1133
+2000-01-25,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1544,1809,6,1810,1815,0,892
+2000-01-25,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,"","","",1338,"",1,892
+2000-01-25,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,600,645,5,652,650,0,174
+2000-01-26,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1839,2027,7,2032,2034,0,545
+2000-01-26,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1054,1237,7,1248,1244,0,545
+2000-01-26,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2024,2156,21,2212,2217,0,545
+2000-01-26,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1455,1658,5,1641,1703,0,545
+2000-01-26,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1703,1835,11,1824,1846,0,545
+2000-01-26,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,844,1021,10,1030,1031,0,545
+2000-01-26,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,703,844,10,848,854,0,545
+2000-01-26,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,527,712,7,711,719,0,545
+2000-01-26,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1308,1448,7,1447,1455,0,545
+2000-01-26,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1055,1342,9,1355,1351,0,1133
+2000-01-26,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1542,1809,6,1810,1815,0,892
+2000-01-26,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1121,1343,4,1338,1347,0,892
+2000-01-26,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,558,644,6,652,650,0,174
+2000-01-26,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1826,2109,3,2100,2112,0,1133
+2000-01-26,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1210,1502,8,1503,1510,0,1197
+2000-01-26,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,721,1018,7,1015,1025,0,1197
+2000-01-26,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1230,1434,12,1435,1446,0,1103
+2000-01-26,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,714,913,7,915,920,0,1103
+2000-01-26,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1743,1939,11,1953,1950,0,1103
+2000-01-26,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,732,1003,11,1010,1014,0,1035
+2000-01-26,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2031,2256,9,2234,2305,0,1035
+2000-01-26,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1210,1437,8,1454,1445,0,1035
+2000-01-27,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,731,1000,7,1010,1007,0,1035
+2000-01-27,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1950,2239,8,2234,2247,0,1035
+2000-01-27,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1209,1435,14,1454,1449,0,1035
+2000-01-27,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1929,2213,13,2100,2226,0,1133
+2000-01-27,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1207,1504,5,1503,1509,0,1197
+2000-01-27,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,723,1010,8,1015,1018,0,1197
+2000-01-27,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,"","","",1435,"",1,1103
+2000-01-27,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,852,"","",915,"",0,1103
+2000-01-27,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1812,2005,8,1953,2013,0,1103
+2000-01-27,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1849,2025,14,2032,2039,0,545
+2000-01-27,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1100,1234,7,1248,1241,0,545
+2000-01-27,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2137,2300,4,2212,2304,0,545
+2000-01-27,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1451,1641,7,1641,1648,0,545
+2000-01-27,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1637,1816,14,1824,1830,0,545
+2000-01-27,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1021,7,1030,1028,0,545
+2000-01-27,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,725,905,8,848,913,0,545
+2000-01-27,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,904,1038,19,711,1057,0,545
+2000-01-27,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1317,1453,6,1447,1459,0,545
+2000-01-27,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1104,1342,3,1355,1345,0,1133
+2000-01-27,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1546,1813,6,1810,1819,0,892
+2000-01-27,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1111,1328,6,1338,1334,0,892
+2000-01-27,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,604,648,4,652,652,0,174
+2000-01-28,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1840,2015,9,2032,2024,0,545
+2000-01-28,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1100,1233,8,1248,1241,0,545
+2000-01-28,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2022,2222,10,2212,2232,0,545
+2000-01-28,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1439,1622,7,1641,1629,0,545
+2000-01-28,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,"","","",1824,"",1,545
+2000-01-28,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1019,8,1030,1027,0,545
+2000-01-28,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,"","","",848,"",1,545
+2000-01-28,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,528,"","",711,"",0,545
+2000-01-28,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,"","","",1447,"",1,545
+2000-01-28,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1103,1346,10,1355,1356,0,1133
+2000-01-28,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1602,1816,8,1810,1824,0,892
+2000-01-28,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1111,1317,5,1338,1322,0,892
+2000-01-28,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,602,649,5,652,654,0,174
+2000-01-28,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1810,2051,5,2100,2056,0,1133
+2000-01-28,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1252,1540,6,1503,1546,0,1197
+2000-01-28,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,719,1008,10,1015,1018,0,1197
+2000-01-28,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1236,1431,18,1435,1449,0,1103
+2000-01-28,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,719,904,8,915,912,0,1103
+2000-01-28,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1757,1951,9,1953,2000,0,1103
+2000-01-28,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,725,954,9,1010,1003,0,1035
+2000-01-28,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2017,2259,8,2234,2307,0,1035
+2000-01-28,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1220,1447,11,1454,1458,0,1035
+2000-01-29,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,721,957,8,1010,1005,0,1035
+2000-01-29,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1953,2224,10,2234,2234,0,1035
+2000-01-29,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1218,1444,10,1454,1454,0,1035
+2000-01-29,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1807,2052,4,2100,2056,0,1133
+2000-01-29,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1206,1457,5,1503,1502,0,1197
+2000-01-29,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,718,1002,6,1015,1008,0,1197
+2000-01-29,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1425,1739,6,1723,1745,0,1197
+2000-01-29,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1245,1456,12,1435,1508,0,1103
+2000-01-29,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,719,930,12,915,942,0,1103
+2000-01-29,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1742,1943,7,1953,1950,0,1103
+2000-01-29,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1841,2016,14,2032,2030,0,545
+2000-01-29,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1058,1245,9,1248,1254,0,545
+2000-01-29,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,"","","",2212,"",1,545
+2000-01-29,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,"","","",1641,"",1,545
+2000-01-29,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,"","","",1824,"",1,545
+2000-01-29,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,846,1022,9,1030,1031,0,545
+2000-01-29,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,706,856,8,848,904,0,545
+2000-01-29,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,529,712,8,711,720,0,545
+2000-01-29,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1638,1816,17,1447,1833,0,545
+2000-01-29,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1109,1352,7,1355,1359,0,1133
+2000-01-29,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1543,1806,7,1810,1813,0,892
+2000-01-29,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1116,1332,6,1338,1338,0,892
+2000-01-29,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,557,645,5,652,650,0,174
+2000-01-30,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,2004,2138,6,2032,2144,0,545
+2000-01-30,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1425,1653,5,1248,1658,0,545
+2000-01-30,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2025,2155,17,2212,2212,0,545
+2000-01-30,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1509,1705,6,1641,1711,0,545
+2000-01-30,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1635,1644,1829,8,1824,1837,0,545
+2000-01-30,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,850,1023,10,1030,1033,0,545
+2000-01-30,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,657,829,10,848,839,0,545
+2000-01-30,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,527,702,8,711,710,0,545
+2000-01-30,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1413,1647,7,1447,1654,0,545
+2000-01-30,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1105,1335,5,1355,1340,0,1133
+2000-01-30,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1601,1822,2,1810,1824,0,892
+2000-01-30,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1112,1334,9,1338,1343,0,892
+2000-01-30,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,558,644,6,652,650,0,174
+2000-01-30,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1837,2121,1,2100,2122,0,1133
+2000-01-30,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1219,1505,7,1503,1512,0,1197
+2000-01-30,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,732,1016,9,1015,1025,0,1197
+2000-01-30,2148,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1425,1423,1701,6,1723,1707,0,1197
+2000-01-30,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1236,1434,9,1435,1443,0,1103
+2000-01-30,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,715,913,10,915,923,0,1103
+2000-01-30,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1742,1938,7,1953,1945,0,1103
+2000-01-30,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,729,952,5,1010,957,0,1035
+2000-01-30,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,2047,2332,9,2234,2341,0,1035
+2000-01-30,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1338,1557,9,1454,1606,0,1035
+2000-01-31,260,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",725,728,954,8,1010,1002,0,1035
+2000-01-31,530,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1950,1951,2218,37,2234,2255,0,1035
+2000-01-31,702,"West Palm Beach/Palm Beach, FL",LGA,"New York, NY",1210,1205,1450,11,1454,1501,0,1035
+2000-01-31,2370,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1805,1928,2156,4,2100,2200,0,1133
+2000-01-31,676,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1205,1233,1528,13,1503,1541,0,1197
+2000-01-31,1224,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",720,721,1013,9,1015,1022,0,1197
+2000-01-31,2130,"West Palm Beach/Palm Beach, FL",BOS,"Boston, MA",1630,1646,1927,5,1928,1932,0,1197
+2000-01-31,772,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1230,1231,1435,7,1435,1442,0,1103
+2000-01-31,1055,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",715,714,906,5,915,911,0,1103
+2000-01-31,1435,"West Palm Beach/Palm Beach, FL",DFW,"Dallas/Fort Worth, TX",1745,1745,1943,11,1953,1954,0,1103
+2000-01-31,190,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1840,1845,2019,6,2032,2025,0,545
+2000-01-31,258,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1055,1059,1243,7,1248,1250,0,545
+2000-01-31,662,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",2030,2035,2203,12,2212,2215,0,545
+2000-01-31,689,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1440,1438,1615,9,1641,1624,0,545
+2000-01-31,1078,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1630,1650,1832,8,1823,1840,0,545
+2000-01-31,1211,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",845,847,1018,12,1030,1030,0,545
+2000-01-31,1546,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",700,707,856,9,848,905,0,545
+2000-01-31,1872,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",530,533,708,7,711,715,0,545
+2000-01-31,2039,"West Palm Beach/Palm Beach, FL",ATL,"Atlanta, GA",1300,1308,1449,3,1447,1452,0,545
+2000-01-31,2436,"West Palm Beach/Palm Beach, FL",BDL,"Hartford, CT",1100,1217,1457,4,1355,1501,0,1133
+2000-01-31,1942,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1540,1652,1918,6,1810,1924,0,892
+2000-01-31,2132,"West Palm Beach/Palm Beach, FL",CVG,"Cincinnati, OH",1105,1110,1324,7,1338,1331,0,892
+2000-01-31,1193,"West Palm Beach/Palm Beach, FL",TPA,"Tampa, FL",600,639,723,5,652,728,0,174

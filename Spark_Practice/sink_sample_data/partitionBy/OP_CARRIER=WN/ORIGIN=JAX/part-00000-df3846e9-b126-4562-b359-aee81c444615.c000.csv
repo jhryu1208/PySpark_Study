@@ -1,0 +1,508 @@
+2000-01-01,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1740,2,1735,1742,0,663
+2000-01-01,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,807,2,810,809,0,365
+2000-01-01,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1320,2,1320,1322,0,484
+2000-01-01,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1735,2,1735,1737,0,318
+2000-01-01,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1954,2,2000,1956,0,318
+2000-01-01,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1626,8,1630,1634,0,688
+2000-01-02,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1455,1645,7,1630,1652,0,688
+2000-01-02,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,810,810,2,810,812,0,365
+2000-01-02,254,"Jacksonville, FL",BNA,"Nashville, TN",750,800,820,4,820,824,0,484
+2000-01-02,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1315,5,1320,1320,0,484
+2000-01-02,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1713,1744,4,1730,1748,0,484
+2000-01-02,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,800,3,805,803,0,318
+2000-01-02,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1704,1806,2,1735,1808,0,318
+2000-01-02,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2103,2204,3,2145,2207,0,318
+2000-01-02,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1155,1257,3,1250,1300,0,318
+2000-01-02,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1416,1518,3,1510,1521,0,318
+2000-01-02,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,2001,3,2000,2004,0,318
+2000-01-02,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,2040,2123,3,2010,2126,0,180
+2000-01-02,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,3,730,723,0,180
+2000-01-02,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1733,2,1735,1735,0,663
+2000-01-02,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,2151,2330,3,2130,2333,0,663
+2000-01-02,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1225,1400,4,1355,1404,0,663
+2000-01-02,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,958,2,1010,1000,0,513
+2000-01-03,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1722,3,1735,1725,0,663
+2000-01-03,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2120,5,2130,2125,0,663
+2000-01-03,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1229,1405,3,1355,1408,0,663
+2000-01-03,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1006,3,1010,1009,0,513
+2000-01-03,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,810,2,810,812,0,365
+2000-01-03,254,"Jacksonville, FL",BNA,"Nashville, TN",750,810,828,4,820,832,0,484
+2000-01-03,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1310,1335,5,1320,1340,0,484
+2000-01-03,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1732,8,1730,1740,0,484
+2000-01-03,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,730,828,2,805,830,0,318
+2000-01-03,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1650,1755,5,1735,1800,0,318
+2000-01-03,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2100,2205,3,2145,2208,0,318
+2000-01-03,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1145,1248,4,1250,1252,0,318
+2000-01-03,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1510,5,1510,1515,0,318
+2000-01-03,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1955,10,2000,2005,0,318
+2000-01-03,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1947,2027,2,2010,2029,0,180
+2000-01-03,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,715,3,730,718,0,180
+2000-01-03,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1446,1634,5,1630,1639,0,688
+2000-01-04,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1500,1640,4,1630,1644,0,688
+2000-01-04,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1605,1736,19,1735,1755,0,663
+2000-01-04,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2118,15,2130,2133,0,663
+2000-01-04,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1222,1343,5,1355,1348,0,663
+2000-01-04,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,1010,1035,3,1010,1038,0,513
+2000-01-04,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,758,2,810,800,0,365
+2000-01-04,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,807,4,820,811,0,484
+2000-01-04,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1318,2,1320,1320,0,484
+2000-01-04,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1815,1835,2,1730,1837,0,484
+2000-01-04,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,757,20,805,817,0,318
+2000-01-04,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1655,1757,3,1735,1800,0,318
+2000-01-04,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2200,2257,3,2145,2300,0,318
+2000-01-04,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1220,1319,4,1250,1323,0,318
+2000-01-04,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1523,1625,3,1510,1628,0,318
+2000-01-04,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1957,3,2000,2000,0,318
+2000-01-04,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1925,2004,3,2010,2007,0,180
+2000-01-04,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,654,733,2,730,735,0,180
+2000-01-05,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1729,3,1735,1732,0,663
+2000-01-05,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2125,2,2130,2127,0,663
+2000-01-05,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1353,2,1355,1355,0,663
+2000-01-05,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1000,7,1010,1007,0,513
+2000-01-05,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,807,2,810,809,0,365
+2000-01-05,254,"Jacksonville, FL",BNA,"Nashville, TN",750,758,817,3,820,820,0,484
+2000-01-05,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1305,1325,5,1320,1330,0,484
+2000-01-05,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1722,4,1730,1726,0,484
+2000-01-05,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,754,11,805,805,0,318
+2000-01-05,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1740,5,1735,1745,0,318
+2000-01-05,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2139,3,2145,2142,0,318
+2000-01-05,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1245,2,1250,1247,0,318
+2000-01-05,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1505,3,1510,1508,0,318
+2000-01-05,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1953,3,2000,1956,0,318
+2000-01-05,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1920,2005,4,2010,2009,0,180
+2000-01-05,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,722,2,730,724,0,180
+2000-01-05,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1437,1630,6,1630,1636,0,688
+2000-01-06,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1625,7,1630,1632,0,688
+2000-01-06,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,805,2,810,807,0,365
+2000-01-06,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,815,5,820,820,0,484
+2000-01-06,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1316,4,1320,1320,0,484
+2000-01-06,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1729,4,1730,1733,0,484
+2000-01-06,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,802,3,805,805,0,318
+2000-01-06,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1647,1758,2,1735,1800,0,318
+2000-01-06,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2134,3,2145,2137,0,318
+2000-01-06,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1234,2,1250,1236,0,318
+2000-01-06,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1413,1515,3,1510,1518,0,318
+2000-01-06,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1859,2001,3,2000,2004,0,318
+2000-01-06,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1920,2005,5,2010,2010,0,180
+2000-01-06,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,3,730,723,0,180
+2000-01-06,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1728,2,1735,1730,0,663
+2000-01-06,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2112,2,2130,2114,0,663
+2000-01-06,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1250,1425,9,1355,1434,0,663
+2000-01-06,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1003,3,1010,1006,0,513
+2000-01-07,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1732,13,1735,1745,0,663
+2000-01-07,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,"","","",2130,"",1,663
+2000-01-07,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1228,1355,3,1355,1358,0,663
+2000-01-07,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1002,3,1010,1005,0,513
+2000-01-07,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,805,1,810,806,0,365
+2000-01-07,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,814,4,820,818,0,484
+2000-01-07,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1313,3,1320,1316,0,484
+2000-01-07,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1734,1755,3,1730,1758,0,484
+2000-01-07,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,758,4,805,802,0,318
+2000-01-07,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1645,1746,4,1735,1750,0,318
+2000-01-07,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2055,2152,2,2145,2154,0,318
+2000-01-07,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1243,3,1250,1246,0,318
+2000-01-07,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,"","","",1510,"",1,318
+2000-01-07,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1917,2020,4,2000,2024,0,318
+2000-01-07,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1923,2003,5,2010,2008,0,180
+2000-01-07,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,728,6,730,734,0,180
+2000-01-07,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1445,1634,9,1630,1643,0,688
+2000-01-08,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1440,1628,5,1630,1633,0,688
+2000-01-08,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,812,2,810,814,0,365
+2000-01-08,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,811,4,820,815,0,484
+2000-01-08,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1316,3,1320,1319,0,484
+2000-01-08,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1722,3,1730,1725,0,484
+2000-01-08,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,800,10,805,810,0,318
+2000-01-08,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1640,1742,3,1735,1745,0,318
+2000-01-08,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2041,2143,2,2145,2145,0,318
+2000-01-08,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1240,5,1250,1245,0,318
+2000-01-08,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1504,3,1510,1507,0,318
+2000-01-08,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1953,2,2000,1955,0,318
+2000-01-08,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,722,806,5,730,811,0,180
+2000-01-08,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1723,2,1735,1725,0,663
+2000-01-08,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1348,3,1355,1351,0,663
+2000-01-08,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1000,2,1010,1002,0,513
+2000-01-09,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1732,3,1735,1735,0,663
+2000-01-09,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2126,3,2130,2129,0,663
+2000-01-09,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1345,3,1355,1348,0,663
+2000-01-09,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,940,1019,2,1010,1021,0,513
+2000-01-09,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,807,817,3,810,820,0,365
+2000-01-09,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,815,5,820,820,0,484
+2000-01-09,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1313,4,1320,1317,0,484
+2000-01-09,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1730,5,1730,1735,0,484
+2000-01-09,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,805,3,805,808,0,318
+2000-01-09,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1635,1740,3,1735,1743,0,318
+2000-01-09,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2041,2145,5,2145,2150,0,318
+2000-01-09,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1242,3,1250,1245,0,318
+2000-01-09,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1505,5,1510,1510,0,318
+2000-01-09,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1900,1957,3,2000,2000,0,318
+2000-01-09,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1940,2015,5,2010,2020,0,180
+2000-01-09,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,730,914,7,730,921,0,180
+2000-01-09,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1440,1627,9,1630,1636,0,688
+2000-01-10,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1739,5,1735,1744,0,663
+2000-01-10,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2120,3,2130,2123,0,663
+2000-01-10,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1230,1407,3,1355,1410,0,663
+2000-01-10,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1020,2,1010,1022,0,513
+2000-01-10,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,807,3,810,810,0,365
+2000-01-10,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,811,3,820,814,0,484
+2000-01-10,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1313,2,1320,1315,0,484
+2000-01-10,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1727,3,1730,1730,0,484
+2000-01-10,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,803,5,805,808,0,318
+2000-01-10,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1710,1814,4,1735,1818,0,318
+2000-01-10,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2139,3,2145,2142,0,318
+2000-01-10,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1245,3,1250,1248,0,318
+2000-01-10,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1412,1513,2,1510,1515,0,318
+2000-01-10,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1955,3,2000,1958,0,318
+2000-01-10,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1920,1958,2,2010,2000,0,180
+2000-01-10,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,722,3,730,725,0,180
+2000-01-10,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1441,1628,7,1630,1635,0,688
+2000-01-11,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1634,4,1630,1638,0,688
+2000-01-11,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,815,4,810,819,0,365
+2000-01-11,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,823,2,820,825,0,484
+2000-01-11,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1313,1339,5,1320,1344,0,484
+2000-01-11,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1728,5,1730,1733,0,484
+2000-01-11,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,803,4,805,807,0,318
+2000-01-11,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1645,1752,3,1735,1755,0,318
+2000-01-11,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2135,3,2145,2138,0,318
+2000-01-11,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1238,10,1250,1248,0,318
+2000-01-11,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1504,3,1510,1507,0,318
+2000-01-11,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1954,6,2000,2000,0,318
+2000-01-11,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1920,2007,3,2010,2010,0,180
+2000-01-11,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,732,8,730,740,0,180
+2000-01-11,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1725,3,1735,1728,0,663
+2000-01-11,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2123,4,2130,2127,0,663
+2000-01-11,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1345,3,1355,1348,0,663
+2000-01-11,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1006,4,1010,1010,0,513
+2000-01-12,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1732,2,1735,1734,0,663
+2000-01-12,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2123,3,2130,2126,0,663
+2000-01-12,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1350,5,1355,1355,0,663
+2000-01-12,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1000,2,1010,1002,0,513
+2000-01-12,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,806,2,810,808,0,365
+2000-01-12,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,810,5,820,815,0,484
+2000-01-12,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1318,2,1320,1320,0,484
+2000-01-12,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1728,4,1730,1732,0,484
+2000-01-12,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,802,3,805,805,0,318
+2000-01-12,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1636,1741,2,1735,1743,0,318
+2000-01-12,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2136,3,2145,2139,0,318
+2000-01-12,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1237,3,1250,1240,0,318
+2000-01-12,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1506,2,1510,1508,0,318
+2000-01-12,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1956,4,2000,2000,0,318
+2000-01-12,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1920,2007,5,2010,2012,0,180
+2000-01-12,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,727,6,730,733,0,180
+2000-01-12,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1622,3,1630,1625,0,688
+2000-01-13,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1630,12,1630,1642,0,688
+2000-01-13,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1605,1737,4,1735,1741,0,663
+2000-01-13,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,2000,2138,9,2130,2147,0,663
+2000-01-13,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1350,3,1355,1353,0,663
+2000-01-13,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1007,3,1010,1010,0,513
+2000-01-13,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,807,3,810,810,0,365
+2000-01-13,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,812,3,820,815,0,484
+2000-01-13,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1316,4,1320,1320,0,484
+2000-01-13,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1809,1835,4,1730,1839,0,484
+2000-01-13,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,801,4,805,805,0,318
+2000-01-13,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1652,1753,3,1735,1756,0,318
+2000-01-13,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2140,2239,5,2145,2244,0,318
+2000-01-13,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1243,3,1250,1246,0,318
+2000-01-13,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1410,1510,4,1510,1514,0,318
+2000-01-13,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1914,2016,3,2000,2019,0,318
+2000-01-13,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1950,2038,3,2010,2041,0,180
+2000-01-13,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,725,3,730,728,0,180
+2000-01-14,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1608,1801,2,1735,1803,0,663
+2000-01-14,996,"Jacksonville, FL",BWI,"Baltimore, MD",1950,1950,2139,3,2130,2142,0,663
+2000-01-14,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1409,2,1355,1411,0,663
+2000-01-14,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1004,3,1010,1007,0,513
+2000-01-14,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,810,2,810,812,0,365
+2000-01-14,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,815,4,820,819,0,484
+2000-01-14,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1322,3,1320,1325,0,484
+2000-01-14,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1730,6,1730,1736,0,484
+2000-01-14,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,800,2,805,802,0,318
+2000-01-14,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1732,4,1735,1736,0,318
+2000-01-14,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2142,3,2145,2145,0,318
+2000-01-14,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1235,3,1250,1238,0,318
+2000-01-14,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1505,3,1510,1508,0,318
+2000-01-14,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1920,2019,4,2000,2023,0,318
+2000-01-14,1051,"Jacksonville, FL",TPA,"Tampa, FL",1920,1926,2008,4,2010,2012,0,180
+2000-01-14,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,725,4,730,729,0,180
+2000-01-14,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1445,1650,8,1630,1658,0,688
+2000-01-15,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1443,1636,5,1630,1641,0,688
+2000-01-15,1293,"Jacksonville, FL",BHM,"Birmingham, AL",800,800,802,3,810,805,0,365
+2000-01-15,254,"Jacksonville, FL",BNA,"Nashville, TN",750,753,817,5,820,822,0,484
+2000-01-15,681,"Jacksonville, FL",BNA,"Nashville, TN",1255,1255,1313,4,1320,1317,0,484
+2000-01-15,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1720,5,1730,1725,0,484
+2000-01-15,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,756,2,805,758,0,318
+2000-01-15,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1733,2,1735,1735,0,318
+2000-01-15,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2040,2040,2135,3,2145,2138,0,318
+2000-01-15,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1140,1140,1240,4,1250,1244,0,318
+2000-01-15,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1457,3,1510,1500,0,318
+2000-01-15,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1855,1855,1957,3,2000,2000,0,318
+2000-01-15,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,724,4,730,728,0,180
+2000-01-15,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1559,1742,3,1735,1745,0,663
+2000-01-15,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1215,1215,1400,3,1355,1403,0,663
+2000-01-15,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,958,2,1010,1000,0,513
+2000-01-16,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1733,2,1740,1735,0,663
+2000-01-16,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2200,4,2150,2204,0,663
+2000-01-16,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1342,3,1355,1345,0,663
+2000-01-16,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,954,2,1010,956,0,513
+2000-01-16,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,804,3,815,807,0,365
+2000-01-16,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,810,5,820,815,0,484
+2000-01-16,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1255,1320,4,1320,1324,0,484
+2000-01-16,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1735,3,1735,1738,0,484
+2000-01-16,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,755,4,805,759,0,318
+2000-01-16,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1730,2,1735,1732,0,318
+2000-01-16,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2143,4,2155,2147,0,318
+2000-01-16,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1233,3,1245,1236,0,318
+2000-01-16,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1504,3,1515,1507,0,318
+2000-01-16,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2005,5,2015,2010,0,318
+2000-01-16,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1935,2018,4,2025,2022,0,180
+2000-01-16,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,712,3,725,715,0,180
+2000-01-16,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1625,3,1630,1628,0,688
+2000-01-17,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1442,1635,30,1630,1705,0,688
+2000-01-17,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,815,3,815,818,0,365
+2000-01-17,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,815,5,820,820,0,484
+2000-01-17,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1355,1420,2,1320,1422,0,484
+2000-01-17,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1710,1738,4,1735,1742,0,484
+2000-01-17,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,758,2,805,800,0,318
+2000-01-17,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1640,1740,2,1735,1742,0,318
+2000-01-17,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2142,3,2155,2145,0,318
+2000-01-17,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1226,4,1245,1230,0,318
+2000-01-17,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1505,4,1515,1509,0,318
+2000-01-17,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2004,4,2015,2008,0,318
+2000-01-17,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,2215,2255,3,2025,2258,0,180
+2000-01-17,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,717,2,725,719,0,180
+2000-01-17,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1743,3,1740,1746,0,663
+2000-01-17,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2150,5,2150,2155,0,663
+2000-01-17,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1404,2,1355,1406,0,663
+2000-01-17,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,953,2,1010,955,0,513
+2000-01-18,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1744,3,1740,1747,0,663
+2000-01-18,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2147,3,2150,2150,0,663
+2000-01-18,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1348,3,1355,1351,0,663
+2000-01-18,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,958,7,1010,1005,0,513
+2000-01-18,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,812,3,815,815,0,365
+2000-01-18,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,814,4,820,818,0,484
+2000-01-18,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1319,1348,3,1320,1351,0,484
+2000-01-18,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1735,6,1735,1741,0,484
+2000-01-18,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,756,4,805,800,0,318
+2000-01-18,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1725,5,1735,1730,0,318
+2000-01-18,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2141,4,2155,2145,0,318
+2000-01-18,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1238,2,1245,1240,0,318
+2000-01-18,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1456,4,1515,1500,0,318
+2000-01-18,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2005,5,2015,2010,0,318
+2000-01-18,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1935,2015,2,2025,2017,0,180
+2000-01-18,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,725,4,725,729,0,180
+2000-01-18,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1630,7,1630,1637,0,688
+2000-01-19,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1731,4,1740,1735,0,663
+2000-01-19,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2139,4,2150,2143,0,663
+2000-01-19,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1351,3,1355,1354,0,663
+2000-01-19,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1000,7,1010,1007,0,513
+2000-01-19,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,817,3,815,820,0,365
+2000-01-19,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,815,5,820,820,0,484
+2000-01-19,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1325,4,1320,1329,0,484
+2000-01-19,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1732,5,1735,1737,0,484
+2000-01-19,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,751,7,805,758,0,318
+2000-01-19,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1635,1730,5,1735,1735,0,318
+2000-01-19,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2058,2149,3,2155,2152,0,318
+2000-01-19,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1230,4,1245,1234,0,318
+2000-01-19,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1501,3,1515,1504,0,318
+2000-01-19,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2000,3,2015,2003,0,318
+2000-01-19,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,2145,2228,2,2025,2230,0,180
+2000-01-19,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,716,2,725,718,0,180
+2000-01-19,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1645,12,1630,1657,0,688
+2000-01-20,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1635,3,1630,1638,0,688
+2000-01-20,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,815,3,815,818,0,365
+2000-01-20,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,829,4,820,833,0,484
+2000-01-20,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1326,4,1320,1330,0,484
+2000-01-20,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1714,1744,4,1735,1748,0,484
+2000-01-20,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,758,3,805,801,0,318
+2000-01-20,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1753,1900,3,1735,1903,0,318
+2000-01-20,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2057,2157,2,2155,2159,0,318
+2000-01-20,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1224,3,1245,1227,0,318
+2000-01-20,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1500,3,1515,1503,0,318
+2000-01-20,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2005,5,2015,2010,0,318
+2000-01-20,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1952,2038,4,2025,2042,0,180
+2000-01-20,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,4,725,724,0,180
+2000-01-20,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1830,2012,9,1740,2021,0,663
+2000-01-20,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2059,2236,11,2150,2247,0,663
+2000-01-20,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,"","","",1355,"",1,663
+2000-01-20,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1006,4,1010,1010,0,513
+2000-01-21,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1610,1755,4,1740,1759,0,663
+2000-01-21,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2203,2347,3,2150,2350,0,663
+2000-01-21,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1355,3,1355,1358,0,663
+2000-01-21,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1005,3,1010,1008,0,513
+2000-01-21,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,817,2,815,819,0,365
+2000-01-21,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,825,8,820,833,0,484
+2000-01-21,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1320,2,1320,1322,0,484
+2000-01-21,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1710,1740,5,1735,1745,0,484
+2000-01-21,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,754,4,805,758,0,318
+2000-01-21,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1635,1743,6,1735,1749,0,318
+2000-01-21,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2142,3,2155,2145,0,318
+2000-01-21,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1353,1448,3,1245,1451,0,318
+2000-01-21,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1503,4,1515,1507,0,318
+2000-01-21,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2008,4,2015,2012,0,318
+2000-01-21,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1955,2035,7,2025,2042,0,180
+2000-01-21,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,643,723,2,725,725,0,180
+2000-01-21,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1650,1854,6,1630,1900,0,688
+2000-01-22,242,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1452,1640,4,1630,1644,0,688
+2000-01-22,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,815,3,815,818,0,365
+2000-01-22,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,822,6,820,828,0,484
+2000-01-22,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1324,5,1320,1329,0,484
+2000-01-22,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1733,4,1735,1737,0,484
+2000-01-22,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,802,3,805,805,0,318
+2000-01-22,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1712,1813,2,1735,1815,0,318
+2000-01-22,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2055,2152,3,2155,2155,0,318
+2000-01-22,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1153,1254,2,1245,1256,0,318
+2000-01-22,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1507,3,1515,1510,0,318
+2000-01-22,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2010,6,2015,2016,0,318
+2000-01-22,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,723,4,725,727,0,180
+2000-01-22,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1725,2,1740,1727,0,663
+2000-01-22,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1343,3,1355,1346,0,663
+2000-01-22,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1007,2,1010,1009,0,513
+2000-01-23,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1605,1742,3,1740,1745,0,663
+2000-01-23,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2035,2212,3,2150,2215,0,663
+2000-01-23,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1325,1458,2,1355,1500,0,663
+2000-01-23,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1000,2,1010,1002,0,513
+2000-01-23,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,812,3,815,815,0,365
+2000-01-23,254,"Jacksonville, FL",BNA,"Nashville, TN",750,758,823,5,820,828,0,484
+2000-01-23,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1312,3,1320,1315,0,484
+2000-01-23,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1718,1746,3,1735,1749,0,484
+2000-01-23,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,759,3,805,802,0,318
+2000-01-23,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1725,1829,3,1735,1832,0,318
+2000-01-23,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2110,2215,3,2155,2218,0,318
+2000-01-23,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1243,2,1245,1245,0,318
+2000-01-23,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1411,1516,7,1515,1523,0,318
+2000-01-23,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2019,2,2015,2021,0,318
+2000-01-23,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,2000,2045,5,2025,2050,0,180
+2000-01-23,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,5,725,725,0,180
+2000-01-23,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1622,7,1630,1629,0,688
+2000-01-24,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1555,1730,2,1740,1732,0,663
+2000-01-24,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2145,5,2150,2150,0,663
+2000-01-24,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1220,1358,3,1355,1401,0,663
+2000-01-24,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1003,4,1010,1007,0,513
+2000-01-24,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,825,832,2,815,834,0,365
+2000-01-24,254,"Jacksonville, FL",BNA,"Nashville, TN",750,800,816,5,820,821,0,484
+2000-01-24,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1305,5,1320,1310,0,484
+2000-01-24,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1724,3,1735,1727,0,484
+2000-01-24,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,805,4,805,809,0,318
+2000-01-24,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1745,3,1735,1748,0,318
+2000-01-24,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2143,3,2155,2146,0,318
+2000-01-24,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1145,1250,5,1245,1255,0,318
+2000-01-24,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1415,1517,3,1515,1520,0,318
+2000-01-24,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2007,4,2015,2011,0,318
+2000-01-24,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1938,2022,3,2025,2025,0,180
+2000-01-24,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,730,3,725,733,0,180
+2000-01-24,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1450,1633,5,1630,1638,0,688
+2000-01-25,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1622,3,1630,1625,0,688
+2000-01-25,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,815,2,815,817,0,365
+2000-01-25,254,"Jacksonville, FL",BNA,"Nashville, TN",750,755,815,5,820,820,0,484
+2000-01-25,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1312,2,1320,1314,0,484
+2000-01-25,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1705,1733,3,1735,1736,0,484
+2000-01-25,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,753,3,805,756,0,318
+2000-01-25,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1745,1840,5,1735,1845,0,318
+2000-01-25,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2144,2,2155,2146,0,318
+2000-01-25,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1230,3,1245,1233,0,318
+2000-01-25,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1500,2,1515,1502,0,318
+2000-01-25,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2013,2,2015,2015,0,318
+2000-01-25,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1940,2020,5,2025,2025,0,180
+2000-01-25,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,722,3,725,725,0,180
+2000-01-25,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1630,"","",1740,"",0,663
+2000-01-25,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,"","","",2150,"",1,663
+2000-01-25,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,"","","",1355,"",1,663
+2000-01-25,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1007,3,1010,1010,0,513
+2000-01-26,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1620,1800,3,1740,1803,0,663
+2000-01-26,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2150,5,2150,2155,0,663
+2000-01-26,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1224,1409,4,1355,1413,0,663
+2000-01-26,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1005,3,1010,1008,0,513
+2000-01-26,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,812,3,815,815,0,365
+2000-01-26,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,824,3,820,827,0,484
+2000-01-26,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1320,3,1320,1323,0,484
+2000-01-26,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1718,1751,4,1735,1755,0,484
+2000-01-26,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,755,4,805,759,0,318
+2000-01-26,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1635,1732,8,1735,1740,0,318
+2000-01-26,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2145,3,2155,2148,0,318
+2000-01-26,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1228,3,1245,1231,0,318
+2000-01-26,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1426,1522,4,1515,1526,0,318
+2000-01-26,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2010,2,2015,2012,0,318
+2000-01-26,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1935,2015,4,2025,2019,0,180
+2000-01-26,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,4,725,724,0,180
+2000-01-26,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1435,1632,2,1630,1634,0,688
+2000-01-27,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1440,1630,5,1630,1635,0,688
+2000-01-27,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1616,1800,3,1740,1803,0,663
+2000-01-27,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2008,2148,5,2150,2153,0,663
+2000-01-27,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1348,4,1355,1352,0,663
+2000-01-27,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1005,3,1010,1008,0,513
+2000-01-27,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,825,830,2,815,832,0,365
+2000-01-27,254,"Jacksonville, FL",BNA,"Nashville, TN",750,754,820,4,820,824,0,484
+2000-01-27,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1313,5,1320,1318,0,484
+2000-01-27,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1708,1735,5,1735,1740,0,484
+2000-01-27,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,710,809,1,805,810,0,318
+2000-01-27,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1720,1820,5,1735,1825,0,318
+2000-01-27,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2152,3,2155,2155,0,318
+2000-01-27,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1237,3,1245,1240,0,318
+2000-01-27,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1405,1511,3,1515,1514,0,318
+2000-01-27,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2013,5,2015,2018,0,318
+2000-01-27,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1955,2038,4,2025,2042,0,180
+2000-01-27,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,3,725,723,0,180
+2000-01-28,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1608,1747,3,1740,1750,0,663
+2000-01-28,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2141,4,2150,2145,0,663
+2000-01-28,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1217,1351,3,1355,1354,0,663
+2000-01-28,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1010,3,1010,1013,0,513
+2000-01-28,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,812,3,815,815,0,365
+2000-01-28,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,809,4,820,813,0,484
+2000-01-28,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1301,1320,3,1320,1323,0,484
+2000-01-28,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1715,1735,5,1735,1740,0,484
+2000-01-28,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,802,2,805,804,0,318
+2000-01-28,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1648,1750,3,1735,1753,0,318
+2000-01-28,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2110,2207,2,2155,2209,0,318
+2000-01-28,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1242,3,1245,1245,0,318
+2000-01-28,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1420,1520,2,1515,1522,0,318
+2000-01-28,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2016,3,2015,2019,0,318
+2000-01-28,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,2005,2050,4,2025,2054,0,180
+2000-01-28,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,4,725,724,0,180
+2000-01-28,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1450,1635,5,1630,1640,0,688
+2000-01-29,242,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1457,1647,8,1630,1655,0,688
+2000-01-29,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,812,3,815,815,0,365
+2000-01-29,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,810,4,820,814,0,484
+2000-01-29,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1319,5,1320,1324,0,484
+2000-01-29,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1709,1738,4,1735,1742,0,484
+2000-01-29,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,803,3,805,806,0,318
+2000-01-29,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1644,1747,2,1735,1749,0,318
+2000-01-29,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2050,2151,4,2155,2155,0,318
+2000-01-29,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1242,3,1245,1245,0,318
+2000-01-29,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1415,1512,5,1515,1517,0,318
+2000-01-29,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2010,2,2015,2012,0,318
+2000-01-29,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,720,3,725,723,0,180
+2000-01-29,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1605,1740,6,1740,1746,0,663
+2000-01-29,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1210,1343,4,1355,1347,0,663
+2000-01-29,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1009,1,1010,1010,0,513
+2000-01-30,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1743,1946,81,1740,2107,0,663
+2000-01-30,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2005,2138,49,2150,2227,0,663
+2000-01-30,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1227,1400,4,1355,1404,0,663
+2000-01-30,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,945,1018,3,1010,1021,0,513
+2000-01-30,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,818,1,815,819,0,365
+2000-01-30,254,"Jacksonville, FL",BNA,"Nashville, TN",750,750,815,5,820,820,0,484
+2000-01-30,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1255,1328,4,1320,1332,0,484
+2000-01-30,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1726,1754,3,1735,1757,0,484
+2000-01-30,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,700,759,3,805,802,0,318
+2000-01-30,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1652,1758,3,1735,1801,0,318
+2000-01-30,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2057,2202,4,2155,2206,0,318
+2000-01-30,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1236,4,1245,1240,0,318
+2000-01-30,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1411,1515,3,1515,1518,0,318
+2000-01-30,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1910,2017,3,2015,2020,0,318
+2000-01-30,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,1942,2034,5,2025,2039,0,180
+2000-01-30,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,"","",725,"",0,180
+2000-01-30,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1455,1658,9,1630,1707,0,688
+2000-01-31,972,"Jacksonville, FL",IND,"Indianapolis, IN",1435,1450,1640,5,1630,1645,0,688
+2000-01-31,227,"Jacksonville, FL",BWI,"Baltimore, MD",1555,1640,1814,3,1740,1817,0,663
+2000-01-31,996,"Jacksonville, FL",BWI,"Baltimore, MD",2005,2013,2147,3,2150,2150,0,663
+2000-01-31,1056,"Jacksonville, FL",BWI,"Baltimore, MD",1210,1222,1350,9,1355,1359,0,663
+2000-01-31,439,"Jacksonville, FL",MSY,"New Orleans, LA",935,935,1005,5,1010,1010,0,513
+2000-01-31,1293,"Jacksonville, FL",BHM,"Birmingham, AL",805,805,813,2,815,815,0,365
+2000-01-31,254,"Jacksonville, FL",BNA,"Nashville, TN",750,757,820,4,820,824,0,484
+2000-01-31,681,"Jacksonville, FL",BNA,"Nashville, TN",1250,1250,1312,3,1320,1315,0,484
+2000-01-31,1138,"Jacksonville, FL",BNA,"Nashville, TN",1705,1741,1808,3,1735,1811,0,484
+2000-01-31,200,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",700,705,805,7,805,812,0,318
+2000-01-31,360,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1630,1630,1734,3,1735,1737,0,318
+2000-01-31,421,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",2050,2056,2153,2,2155,2155,0,318
+2000-01-31,878,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1135,1135,1239,3,1245,1242,0,318
+2000-01-31,1144,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1405,1442,1544,2,1515,1546,0,318
+2000-01-31,1339,"Jacksonville, FL",FLL,"Fort Lauderdale, FL",1910,1925,2033,2,2015,2035,0,318
+2000-01-31,1051,"Jacksonville, FL",TPA,"Tampa, FL",1935,2010,2055,5,2025,2100,0,180
+2000-01-31,1557,"Jacksonville, FL",TPA,"Tampa, FL",640,640,725,5,725,730,0,180

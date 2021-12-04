@@ -1,0 +1,185 @@
+2000-01-01,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1146,1627,6,1646,1633,0,1185
+2000-01-01,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,912,1150,2,1158,1152,0,592
+2000-01-01,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1528,1803,4,1816,1807,0,592
+2000-01-01,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1903,2029,14,2053,2043,0,410
+2000-01-01,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,748,907,11,930,918,0,410
+2000-01-02,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,2002,2125,7,2053,2132,0,410
+2000-01-02,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,924,8,930,932,0,410
+2000-01-02,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,729,1215,12,1211,1227,0,1185
+2000-01-02,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1203,1658,7,1646,1705,0,1185
+2000-01-02,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,915,1145,9,1158,1154,0,592
+2000-01-02,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1532,1801,8,1816,1809,0,592
+2000-01-03,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,715,"","",1211,"",0,1185
+2000-01-03,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1149,1645,6,1646,1651,0,1185
+2000-01-03,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,926,1205,7,1158,1212,0,592
+2000-01-03,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1529,1801,12,1816,1813,0,592
+2000-01-03,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1911,2041,7,2053,2048,0,410
+2000-01-03,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,752,932,3,930,935,0,410
+2000-01-04,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1911,2049,13,2053,2102,0,410
+2000-01-04,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,750,926,6,930,932,0,410
+2000-01-04,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,724,1155,6,1211,1201,0,1185
+2000-01-04,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1148,1638,14,1646,1652,0,1185
+2000-01-04,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,915,1151,8,1158,1159,0,592
+2000-01-04,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1524,1801,9,1816,1810,0,592
+2000-01-05,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,716,1151,7,1211,1158,0,1185
+2000-01-05,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1143,"","",1646,"",0,1185
+2000-01-05,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,913,1148,7,1158,1155,0,592
+2000-01-05,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1529,1802,6,1816,1808,0,592
+2000-01-05,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1911,2038,6,2053,2044,0,410
+2000-01-05,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,754,916,3,930,919,0,410
+2000-01-06,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1907,2031,7,2053,2038,0,410
+2000-01-06,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,921,3,930,924,0,410
+2000-01-06,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,714,1217,10,1211,1227,0,1185
+2000-01-06,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1154,1627,8,1646,1635,0,1185
+2000-01-06,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,913,1150,6,1158,1156,0,592
+2000-01-06,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1544,1824,4,1816,1828,0,592
+2000-01-07,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,715,1144,4,1211,1148,0,1185
+2000-01-07,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1144,1632,5,1646,1637,0,1185
+2000-01-07,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1155,6,1158,1201,0,592
+2000-01-07,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1530,1802,11,1816,1813,0,592
+2000-01-07,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1908,2029,11,2053,2040,0,410
+2000-01-07,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,750,926,6,930,932,0,410
+2000-01-08,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1907,2026,4,2053,2030,0,410
+2000-01-08,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,924,3,930,927,0,410
+2000-01-08,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,709,1136,7,1211,1143,0,1185
+2000-01-08,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1145,1617,7,1646,1624,0,1185
+2000-01-08,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,909,1155,8,1158,1203,0,592
+2000-01-08,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1528,1755,10,1816,1805,0,592
+2000-01-09,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,727,1158,8,1211,1206,0,1185
+2000-01-09,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1213,1640,8,1646,1648,0,1185
+2000-01-09,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,908,1147,6,1158,1153,0,592
+2000-01-09,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1527,1757,18,1816,1815,0,592
+2000-01-09,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,"","","",2053,"",1,410
+2000-01-09,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,743,923,5,930,928,0,410
+2000-01-10,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,713,1136,6,1211,1142,0,1185
+2000-01-10,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1141,1619,9,1646,1628,0,1185
+2000-01-10,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,908,1135,10,1158,1145,0,592
+2000-01-10,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1526,1750,8,1816,1758,0,592
+2000-01-10,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1902,2040,3,2053,2043,0,410
+2000-01-10,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,751,930,7,930,937,0,410
+2000-01-11,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1904,2032,7,2053,2039,0,410
+2000-01-11,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,751,930,4,930,934,0,410
+2000-01-11,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,708,1133,5,1211,1138,0,1185
+2000-01-11,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1142,1618,4,1646,1622,0,1185
+2000-01-11,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1145,5,1158,1150,0,592
+2000-01-11,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1527,1757,8,1816,1805,0,592
+2000-01-12,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,723,1204,6,1211,1210,0,1185
+2000-01-12,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1139,1637,6,1646,1643,0,1185
+2000-01-12,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1138,7,1158,1145,0,592
+2000-01-12,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1528,1753,10,1816,1803,0,592
+2000-01-12,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1905,2037,7,2053,2044,0,410
+2000-01-12,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,748,922,4,930,926,0,410
+2000-01-13,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1903,2038,12,2053,2050,0,410
+2000-01-13,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,746,917,3,930,920,0,410
+2000-01-13,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,708,1138,7,1211,1145,0,1185
+2000-01-13,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1146,1624,9,1646,1633,0,1185
+2000-01-13,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1143,1,1158,1144,0,592
+2000-01-13,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1527,1800,14,1816,1814,0,592
+2000-01-14,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,711,1140,5,1211,1145,0,1185
+2000-01-14,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1146,1635,8,1646,1643,0,1185
+2000-01-14,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,909,1141,5,1158,1146,0,592
+2000-01-14,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1525,1757,15,1816,1812,0,592
+2000-01-14,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1912,2039,6,2053,2045,0,410
+2000-01-14,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,744,917,4,930,921,0,410
+2000-01-15,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1910,2031,7,2053,2038,0,410
+2000-01-15,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,745,914,5,930,919,0,410
+2000-01-15,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,706,1144,8,1211,1152,0,1185
+2000-01-15,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1141,1629,8,1646,1637,0,1185
+2000-01-15,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,909,1140,5,1158,1145,0,592
+2000-01-15,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1526,1757,10,1816,1807,0,592
+2000-01-16,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,709,1145,6,1211,1151,0,1185
+2000-01-16,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1155,1658,7,1646,1705,0,1185
+2000-01-16,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,909,1140,14,1158,1154,0,592
+2000-01-16,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1527,1756,6,1816,1802,0,592
+2000-01-16,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1902,2037,8,2053,2045,0,410
+2000-01-16,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,743,909,4,930,913,0,410
+2000-01-17,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1907,2036,6,2053,2042,0,410
+2000-01-17,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,747,910,3,930,913,0,410
+2000-01-17,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,712,1139,7,1211,1146,0,1185
+2000-01-17,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1151,1626,8,1646,1634,0,1185
+2000-01-17,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1135,10,1158,1145,0,592
+2000-01-17,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1533,1801,5,1816,1806,0,592
+2000-01-18,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,709,1131,9,1211,1140,0,1185
+2000-01-18,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1144,1628,4,1646,1632,0,1185
+2000-01-18,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1145,5,1158,1150,0,592
+2000-01-18,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1526,1754,11,1816,1805,0,592
+2000-01-18,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1905,2039,3,2053,2042,0,410
+2000-01-18,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,748,923,4,930,927,0,410
+2000-01-19,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,712,1133,9,1211,1142,0,1185
+2000-01-19,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1148,1630,9,1646,1639,0,1185
+2000-01-19,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,915,1148,8,1158,1156,0,592
+2000-01-19,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1548,1815,6,1816,1821,0,592
+2000-01-19,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1907,2040,7,2053,2047,0,410
+2000-01-19,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,750,931,5,930,936,0,410
+2000-01-20,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1905,2036,7,2053,2043,0,410
+2000-01-20,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,924,5,930,929,0,410
+2000-01-20,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,710,1136,6,1211,1142,0,1185
+2000-01-20,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1143,1605,8,1646,1613,0,1185
+2000-01-20,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1140,5,1158,1145,0,592
+2000-01-20,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1525,1752,6,1816,1758,0,592
+2000-01-21,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,712,1142,5,1211,1147,0,1185
+2000-01-21,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1144,1615,11,1646,1626,0,1185
+2000-01-21,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,920,1150,8,1158,1158,0,592
+2000-01-21,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1525,1748,9,1816,1757,0,592
+2000-01-21,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1905,2033,7,2053,2040,0,410
+2000-01-21,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,925,4,930,929,0,410
+2000-01-22,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1904,2037,6,2053,2043,0,410
+2000-01-22,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,747,925,4,930,929,0,410
+2000-01-22,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,708,1127,5,1211,1132,0,1185
+2000-01-22,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1147,1631,8,1646,1639,0,1185
+2000-01-22,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,908,1134,7,1158,1141,0,592
+2000-01-22,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1523,1754,8,1816,1802,0,592
+2000-01-23,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,730,1153,13,1211,1206,0,1185
+2000-01-23,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1147,1617,7,1646,1624,0,1185
+2000-01-23,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,909,1143,9,1158,1152,0,592
+2000-01-23,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1529,1751,15,1816,1806,0,592
+2000-01-23,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1913,2048,14,2053,2102,0,410
+2000-01-23,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,748,931,4,930,935,0,410
+2000-01-24,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,712,1149,7,1211,1156,0,1185
+2000-01-24,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1147,1621,8,1646,1629,0,1185
+2000-01-24,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1141,11,1158,1152,0,592
+2000-01-24,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,"","","",1816,"",1,592
+2000-01-24,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1908,2034,7,2053,2041,0,410
+2000-01-24,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,924,4,930,928,0,410
+2000-01-25,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1905,2034,6,2053,2040,0,410
+2000-01-25,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,747,920,3,930,923,0,410
+2000-01-25,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,728,1148,5,1211,1153,0,1185
+2000-01-25,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1143,1611,7,1646,1618,0,1185
+2000-01-25,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,905,1140,7,1158,1147,0,592
+2000-01-25,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1534,1756,13,1816,1809,0,592
+2000-01-26,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,712,1131,9,1211,1140,0,1185
+2000-01-26,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1145,1621,7,1646,1628,0,1185
+2000-01-26,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,915,1141,7,1158,1148,0,592
+2000-01-26,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1531,1757,9,1816,1806,0,592
+2000-01-26,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1906,2041,4,2053,2045,0,410
+2000-01-26,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,749,912,3,930,915,0,410
+2000-01-27,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1907,2051,5,2053,2056,0,410
+2000-01-27,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,746,925,4,930,929,0,410
+2000-01-27,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,710,1157,6,1211,1203,0,1185
+2000-01-27,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1412,1857,7,1646,1904,0,1185
+2000-01-27,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1225,13,1158,1238,0,592
+2000-01-27,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1714,1948,10,1816,1958,0,592
+2000-01-28,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,"","","",1211,"",1,1185
+2000-01-28,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1220,1703,6,1646,1709,0,1185
+2000-01-28,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,915,1323,6,1158,1329,0,592
+2000-01-28,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1527,1830,12,1816,1842,0,592
+2000-01-28,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1906,2045,8,2053,2053,0,410
+2000-01-28,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,748,952,3,930,955,0,410
+2000-01-29,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1903,2026,5,2053,2031,0,410
+2000-01-29,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,748,927,5,930,932,0,410
+2000-01-29,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,"","","",1211,"",1,1185
+2000-01-29,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1152,1621,7,1646,1628,0,1185
+2000-01-29,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,915,1153,4,1158,1157,0,592
+2000-01-29,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1530,1528,1810,5,1816,1815,0,592
+2000-01-30,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,721,1217,10,1211,1227,0,1185
+2000-01-30,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1212,1704,10,1646,1714,0,1185
+2000-01-30,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1143,10,1158,1153,0,592
+2000-01-30,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1540,1538,1805,10,1818,1815,0,592
+2000-01-30,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1908,2033,7,2053,2040,0,410
+2000-01-30,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",750,818,949,5,930,954,0,410
+2000-01-31,285,"Colorado Springs, CO",SLC,"Salt Lake City, UT",1910,1905,2040,8,2053,2048,0,410
+2000-01-31,1050,"Colorado Springs, CO",SLC,"Salt Lake City, UT",745,743,922,6,925,928,0,410
+2000-01-31,340,"Colorado Springs, CO",ATL,"Atlanta, GA",715,711,1148,6,1211,1154,0,1185
+2000-01-31,1600,"Colorado Springs, CO",ATL,"Atlanta, GA",1145,1145,1631,8,1646,1639,0,1185
+2000-01-31,596,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",915,910,1137,11,1158,1148,0,592
+2000-01-31,898,"Colorado Springs, CO",DFW,"Dallas/Fort Worth, TX",1540,1538,1807,10,1818,1817,0,592
