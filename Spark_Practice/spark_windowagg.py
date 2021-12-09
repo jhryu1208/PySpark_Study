@@ -29,28 +29,3 @@ invoices_DF = spark.read\
 
 invoices_DF.show(10)
 invoices_DF.printSchema()
-
-invoices_DF = invoices_DF.withColumn('InvoiceDate', to_date(col('InvoiceDate'), 'dd-MM-yyyy H.mm'))\
-                            .withColumn('WeekNumber', weekofyear(col('InvoiceDate')))\
-                             .where(year(col('InvoiceDate')) == 2010)
-
-result_DF = invoices_DF.groupBy('Country', 'WeekNumber').agg(
-    countDistinct(col('InvoiceNo')).alias('NumInvoices'),
-    sum(col('Quantity')).alias('TotalQuantity'),
-    round(sum(col('Quantity')*col('UnitPrice')), 2).alias('InvoiceValue')
-)
-
-result_DF.sort('Country', 'WeekNumber').show()
-
-# coalesce(1) : 분산된 상태로 저장하지 않기 위함
-result_DF.coalesce(1)\
-          .write\
-          .format('parquet')\
-          .mode('overwrite')\
-          .save(WRITE_PATH + r'\parquet_format')
-
-result_DF.coalesce(1)\
-          .write\
-          .format('csv')\
-          .mode('overwrite')\
-          .save(WRITE_PATH+r'\csv_format')
