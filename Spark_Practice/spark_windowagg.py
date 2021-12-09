@@ -7,13 +7,11 @@ from pyspark.sql import SparkSession
 from pyspark.conf import SparkConf
 from pyspark.context import SparkContext
 from pyspark.sql.functions import * # aggregation is all about using aggregate and windowing functions
+from pyspark.sql.window import Window # Import Window
 from lib.logger import Log4J
 
 CURRENT_PATH = os.getcwd()
-MIDDLE_PATH = r'\Spark_Practice\sample_data'
-FILENAME = r'\invoices.csv'
-PATH = CURRENT_PATH + MIDDLE_PATH + FILENAME
-WRITE_PATH = CURRENT_PATH + r'\Spark_Practice\sink_sample_data\groupbyexample'
+PATH = CURRENT_PATH + r'\Spark_Practice\sink_sample_data\groupbyexample\parquet_format'
 spark = SparkSession.builder\
                     .master('local[3]')\
                     .appName('Spark Aggregation Pracice')\
@@ -21,11 +19,16 @@ spark = SparkSession.builder\
 
 logger = Log4J(spark)
 
-invoices_DF = spark.read\
-                    .format('csv')\
-                    .option('header', 'true')\
-                    .option('inferSchema', 'true')\
-                    .load(PATH)
+summary_DF = spark.read\
+                .format('parquet')\
+                .load(PATH+r'\part-00000-40c07c56-ab2b-443f-81a1-5fe6fcff8bf2-c000.snappy.parquet')
 
-invoices_DF.show(10)
-invoices_DF.printSchema()
+summary_DF.show()
+
+# Define window : Partition & Ordering & Start/End
+running_total_window = Window.partitionBy('Country')\
+                             .orderBy('WeekNumber')\
+                             .rowsBetween(Window.unboundedPreceding, Window.currentRow)
+
+summary_DF.withColumn('RunningTotal',
+                      sum("InvoiceValue").over(running_total_window)).show()
