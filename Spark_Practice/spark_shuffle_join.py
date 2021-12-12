@@ -22,8 +22,9 @@ flight_time_df2 = spark.read.json(os.getcwd()+r'\Spark_Practice\sample_data\d2')
 spark.conf.set("spark.sql.shuffle.partitions", 3)
 
 join_expr = flight_time_df1.id == flight_time_df2.id
-join_df = flight_time_df1.join(flight_time_df2, join_expr, 'inner')
-
+shuffle_join_df = flight_time_df1.join(flight_time_df2, join_expr, 'inner')
+broadcast_join_df = flight_time_df1.join(broadcast(flight_time_df2), join_expr, 'inner')
 # dummy action
-join_df.foreach(lambda f: None)
-input('hold spark web UI')
+shuffle_join_df.foreach(lambda f: None)
+broadcast_join_df.foreach(lambda f: None)
+time.sleep(600)
