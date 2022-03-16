@@ -7,10 +7,11 @@ from pyspark.sql import *
 from pyspark.sql.functions import *
 from lib.logger import Log4J
 
+# enableHiveSupport는 spark DB이용시 필수
 spark = SparkSession.builder\
                     .master('local[3]')\
                     .appName('spark practice join')\
-                    .enableHiveSupport()\ # spark DB에서는 필수
+                    .enableHiveSupport()\
                     .getOrCreate()
 
 logger = Log4J(spark)
