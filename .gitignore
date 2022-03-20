@@ -1,5 +1,5 @@
 # Default ignored files
-/shelf/
+/.idea/
 /workspace.xml
 /.cache/
 /.ipyndb_checkpoints/
@@ -13,4 +13,4 @@
 /dataSources.local.xml
 # db
 /metastore_db/
-/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-20_오후_10_33_[Changes]/7ceec8265a5a3add396b719877beb5559cbde4bf22612831e7ac0825
+/derby.log
