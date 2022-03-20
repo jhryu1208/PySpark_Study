@@ -2,7 +2,7 @@
 /.idea/
 /workspace.xml
 /.cache/
-/.ipyndb_checkpoints/
+/.ipynb_checkpoints/
 /.ipython/
 /.jupyter/
 /.local/
